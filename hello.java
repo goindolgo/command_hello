@@ -1,3 +1,5 @@
+// for command line git tutorial
+// GitHub modification
 class hello {
 	// For command line git tutorial
 	// Local repository modification
